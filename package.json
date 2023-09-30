@@ -1,6 +1,6 @@
 {
   "name": "@guifromjs/store",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "📦 Simple state management with vanilla javascript",
   "repository": "git@github.com:grvcoelho/store",
   "author": "Guilherme Coelho",
